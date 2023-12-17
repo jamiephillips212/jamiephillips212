@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning Software Development with Code Fellows!
 - 💞️ I’m looking to collaborate with other students and professionals in the tech industry! 
 - 😄 Pronouns: She/Her
--⚡Fun fact: I write in my spare time!
